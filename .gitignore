@@ -48,9 +48,12 @@ dist/**
 data/clean
 data/original
 data/processed_v1/processed_data.npz
+data/zeggs_full_data
 
 .vscode
 .idea
 .ipynb_checkpoints
 *.bvh
 *.wav
+
+venv
